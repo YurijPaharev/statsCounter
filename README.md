@@ -1,0 +1,1 @@
+This readme contains some aditional information about my masters diploma
