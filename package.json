@@ -1,0 +1,32 @@
+{
+  "name": "diploma",
+  "version": "1.0.0",
+  "description": "REST_API for diploma",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.2",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurijPaharev/statsCounter.git"
+  },
+  "author": "Yurii Pakhariev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YurijPaharev/statsCounter/issues"
+  },
+  "homepage": "https://github.com/YurijPaharev/statsCounter#readme"
+}

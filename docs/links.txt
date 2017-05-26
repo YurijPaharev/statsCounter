@@ -1,0 +1,4 @@
+https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09
+https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli
