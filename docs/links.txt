@@ -1,4 +1,9 @@
-https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
-https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
-https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09
-https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli
+https://medium.freecodecamp.com/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2 \/
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4 \/ 
+https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09 \/
+https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli \/
+ 
+https://medium.com/the-node-js-collection/10-best-practices-for-writing-node-js-rest-apis-7643a7765cd
+https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
+https://medium.freecodecamp.com/node-js-streams-everything-you-need-to-know-c9141306be93
+http://restful-api-design.readthedocs.io/en/latest/methods.html
