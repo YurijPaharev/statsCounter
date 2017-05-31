@@ -1,0 +1,8 @@
+<div class='menu'>
+  <div class="menu-header"></div>
+  <div class="menu-content">
+    <ul>
+      <li *ngFor="let c of menuContent; let i = index" (click)="onSelect(c)">{{(i+1) + '. ' +  c.title}}</li>
+    </ul>
+  </div>
+</div>

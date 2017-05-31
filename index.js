@@ -21,7 +21,7 @@ app.use('/app', routes);
 
 // Catch all other routes and return the index file
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public/dist/index.html'));
+  res.sendFile(path.join(__dirname, 'public/src/index.html'));
 });
 
 app.use(function(req, res) {
