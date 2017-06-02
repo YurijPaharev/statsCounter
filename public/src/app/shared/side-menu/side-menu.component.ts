@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 import {Router} from '@angular/router';
 
 @Component({
@@ -9,7 +9,7 @@ import {Router} from '@angular/router';
 export class SideMenuComponent {
   private menuContent: any;
 
-  constructor(private router: Router) { 
+  constructor(private router: Router) {
     this.menuContent = [
       {
         title: 'Chapter1',
@@ -23,11 +23,11 @@ export class SideMenuComponent {
         title: 'Chapter3',
         content: 'zxcvzxcvzxcvzxcvxzcv'
       }
-    ]
+    ];
   }
 
-onSelect(c: any): void {
-    this.router.navigate(['/content', c]);
+  onSelect(c: any): void {
+    this.router.navigate(['/content']);
   }
 
 }

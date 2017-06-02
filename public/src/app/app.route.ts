@@ -8,10 +8,13 @@ import {ContentComponent} from './components/content/content.component';
  * Create routes structure
  */
 const routes: Routes = [
-  { path: 'main', component: MainComponent },
-  { path: 'factory-form', component: FactoryFormComponent },
-  { path: 'content', component: ContentComponent},
-  { path: '',   redirectTo: '/main', pathMatch: 'full' },
+  { path: '',   redirectTo: 'main', pathMatch: 'full' },
+  { path: 'main', component: MainComponent, children: [
+    { path: '', redirectTo: 'content', pathMatch: 'full' },
+    { path: 'content', component: ContentComponent },
+    { path: 'factory-form', component: FactoryFormComponent }
+    ]
+  }
 //   { path: '**', component: PageNotFoundComponent }
 ];
 

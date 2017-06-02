@@ -8,3 +8,6 @@ https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
 https://medium.freecodecamp.com/node-js-streams-everything-you-need-to-know-c9141306be93
 http://restful-api-design.readthedocs.io/en/latest/methods.html
 https://hackernoon.com/javascript-the-spread-operator-a867a71668ca
+
+https://www.youtube.com/watch?v=8TvZ8arIamo
+https://scotch.io/@jecelyn
